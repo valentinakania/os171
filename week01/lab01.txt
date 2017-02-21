@@ -20,3 +20,5 @@ drwxr-xr-x  2 valentina.kania StafCS 4096 Feb 18 14:46 week09
 drwxr-xr-x  2 valentina.kania StafCS 4096 Feb 18 14:46 week10
 drwxr-xr-x  2 valentina.kania StafCS 4096 Feb 18 14:48 xtra
 /home/fasilkom/mahasiswa/v/valentina.kania/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 21 Feb 2017 at 11:36:37
