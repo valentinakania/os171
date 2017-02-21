@@ -1,0 +1,4 @@
+Task from week 1:
+1. Creating lab folders and dummy files.
+2. Creating report for week00 and week01, lab01, and expectation/
+3. Using git and cli.
