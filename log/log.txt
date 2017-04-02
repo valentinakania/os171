@@ -18,4 +18,28 @@ w02-170221-14-LP-About: Encryption, From: Lecturer
 w02-170223-13-LP-About: C, From: Lecturer
 w02-170223-13-LP-About: C, From: Lecturer
 w02-170223-14-LP-About: C, From: Lecturer
+w03-170230-13-LP-About: C pointer, variables, From: Lecturer
+w03-170230-13-LP-About: Linux Booting From: Lecturer
+w03-170230-14-LP-About: Linux Booting From: Lecturer
+w03-170304-03-PS-Week 3 Task
+w03-170304-09-PS-Week 3 Task
+w03-170304-09-PS-Week 3 Task
+w03-170304-12-PS-Week 3 Task
+w03-170304-13-PS-Week 3 Task
+w03-170304-13-PS-Week 3 Task
+w03-170304-14-PS-Week 3 Task
+w04-170307-13-LP-About: C pointer, variables, From: Lecturer
+w04-170307-13-LP-About: C pointer, variables, From: Lecturer
+w04-170307-14-LP-About: C pointer, variables, From: Lecturer
+w04-170308-10-PS-Week 4 Task
+w04-170308-10-PS-Week 4 Task
+w04-170308-11-PS-Week 4 Task
+w04-170308-11-PS-Week 4 Task
+w04-170308-12-PS-Week 4 Task
+w04-170309-13-LP-About: C pointer & variables, From: Lecturer
+w04-170309-13-LP-About: C pointer & variables, From: Lecturer
+w04-170309-14-LP-About: C pointer & variables, From: Lecturer
+w04-170309-21-PS-Week 4 Task
+w04-170309-22-PS-Week 4 Task
+w04-170309-22-PS-Week 4 Task
 
